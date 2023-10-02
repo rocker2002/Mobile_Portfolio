@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  width: 375px;
+  height: 48px;
+  margin: auto;
+  display: flex;
+  flex-flow: row wrap;
+  background-color: white;
+  align-items: flex-start;
+  gap: 205px;
+}
+
+div.logo{
+  font-size: 18px;
+  font-weight: 700;
+  color: #6070FF;
+  align-self: center;
+  margin: 0px 24px;
+}
+div.menu{
+    align-self: center;
+}
